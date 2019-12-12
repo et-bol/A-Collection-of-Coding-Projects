@@ -1,3 +1,9 @@
+"""
+A simple 25 minute timer written with python tkinter that I did
+as part of a treehouse coding workshop
+"""
+
+
 import tkinter
 from tkinter import messagebox
 
